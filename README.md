@@ -1,5 +1,5 @@
 # Dashboard Data Analysis in MS-Excel
-Online Fashion_Store Sales & Orders Analysis Annual Report .
+Online Fashion Store Sales & Orders Analysis Annual Report .
 [Himanshu Store Data Analysis.xlsx](https://github.com/himanshu9000/Dashboard-Data_Analysis-Excel/files/11469676/Himanshu.Store.Data.Analysis.xlsx)
 
 
